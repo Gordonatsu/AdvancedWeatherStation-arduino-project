@@ -3,7 +3,7 @@
   <p>An Arduino project simulated in Wokwi</p>
 </div>
 
-**# Preview**
+# Preview
 
 <img width="554" height="551" alt="ADV-wStation-ver1" src="https://github.com/user-attachments/assets/48464f8f-2885-467b-a311-1122bd352337" />
 
